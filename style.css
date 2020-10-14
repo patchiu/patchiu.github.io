@@ -113,6 +113,16 @@ section:last-child {
 	padding: 20px 0 10px;
 }
 
+a[href^=tel] {
+	color: #444; 
+	text-decoration: none;
+	-webkit-transition: all .3s ease-in;
+	-moz-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+	-ms-transition: all .3s ease-in;
+	transition: all .3s ease-in;
+}
+
 a:hover { 
 	color: #fa8a6e;
 }
