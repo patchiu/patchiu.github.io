@@ -113,14 +113,6 @@ section:last-child {
 	padding: 20px 0 10px;
 }
 
-a[href^=tel] {
-	color: #444; 
-	text-decoration: none;}
-
-a:hover { 
-	color: #fa8a6e;
-}
-
 .sectionTitle {
 	float: left;
 	width: 25%;
